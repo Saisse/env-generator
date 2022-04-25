@@ -1,0 +1,1 @@
+addSbtPlugin("com.github.Saisse" % "env-generator-sbt-plugin" % "0.1")
